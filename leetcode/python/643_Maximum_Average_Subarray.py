@@ -1,3 +1,6 @@
+
+
+
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
         # шаг 1: считаем сумму первых k чисел, допустим k = 3, а массив nums = [1, 3, 5, 2, 8]
